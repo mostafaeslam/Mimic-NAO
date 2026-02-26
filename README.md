@@ -172,9 +172,6 @@ Mimic-Nao-main/
 
 Feel free to submit issues, feature requests, or pull requests to improve the project.
 
-## License
-
-[Add your license information here]
 
 ## Acknowledgments
 
